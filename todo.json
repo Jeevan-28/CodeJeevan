@@ -1,0 +1,23 @@
+{
+    "user": [
+      {
+        "newtask": "hello",
+        "id": 3
+      },
+      {
+        "newtask": "Task to jay",
+        "id": 4
+      },
+      {
+        "newtask": "task to ajay",
+        "id": 5
+      }
+    ],
+  
+    "doneuser": [
+      {
+        "newtask": "sam",
+        "id": 6
+    }]
+  }
+  
